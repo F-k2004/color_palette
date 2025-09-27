@@ -1,7 +1,7 @@
 <!-- color_palette.html -->
 <!DOCTYPE html>
 <html lang="fa">
-<head>
+<ead>
   <meta charset="UTF-8">
   <title>🎨 تولید پالت رنگ</title>
   <style>
